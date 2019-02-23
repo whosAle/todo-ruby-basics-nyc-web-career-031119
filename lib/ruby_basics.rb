@@ -4,11 +4,11 @@ end
 
 def assign_variable(value)
   name = value
-
+  
 end
 
 def argue(value)
-  value
+  value  
 end
 
 def greeting(arg1, arg2)
@@ -21,7 +21,7 @@ def return_a_value
 end
 
 def last_evaluated_value
-  "Expert"
+  "expert"
 
 end
 
